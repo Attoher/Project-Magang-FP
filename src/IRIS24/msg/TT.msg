@@ -1,0 +1,2 @@
+int16 pindahbola_x
+int16 pindahbola_y

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/FP_ws/install
+
+Name: IRIS24
+Description: Description of IRIS24
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
